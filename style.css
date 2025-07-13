@@ -48,3 +48,8 @@ body{
     height: 50px; 
 }
 /* pillar-items done */
+
+.news-section{padding-top: 50px;}
+.News{padding-top: 20px;color: #00000095;}
+.News-title{color: #000;font-weight: 900;font-size: 40px;}
+/* recent news done */
