@@ -1,0 +1,14 @@
+*{
+margin: 0px;padding: 0px;
+}
+.webname{
+width: 300px;font-size: 30px;font-weight: bold;height: 35px;color: #0E0E0E;
+}
+.btnsign{
+height: 38px;color: green;border-radius: 10px;width: 100px;
+}
+.navber{
+display: flex;justify-content: space-between;max-width: 1180px;margin: 15px auto;
+}
+
+/* Header done: */
