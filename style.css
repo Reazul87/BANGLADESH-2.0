@@ -24,3 +24,27 @@ display: flex;justify-content: space-between;max-width: 1180px;margin: 15px auto
     height: 300px;
 }
 /* Img-section-1 done */
+body{
+    margin: 0px auto;max-width: 1120px;
+}
+.item-article{
+    font-size: large;
+    font-weight: 400;
+    color: #00000098;
+    padding-top: 10px;
+}
+.pillar-items{
+    display: flex; 
+    gap: 20px;
+}
+.pillar-item{
+    margin-top: 20px;
+    background-color: beige;
+    border-radius: 14px;
+    height: 150px; 
+    padding: 15px; 
+}
+.pillar-item img{
+    height: 50px; 
+}
+/* pillar-items done */
