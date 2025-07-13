@@ -98,3 +98,19 @@ body{
     color: rgba(0, 0, 0, 0.681);
  }
  /* Subscribe Section Done  */
+ .logo-container{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.logo-container img{
+    height: 40px;
+    padding-top: 50px;
+
+}
+.footer-section{
+    text-align: center;
+    padding-bottom: 140px;
+    padding-top: 40px;
+}
+/* footer section done  */
