@@ -53,3 +53,13 @@ body{
 .News{padding-top: 20px;color: #00000095;}
 .News-title{color: #000;font-weight: 900;font-size: 40px;}
 /* recent news done */
+
+
+.Aljazeera{height: 50px;}
+.L-time{font-size: 15px;color: #000000ab;padding-bottom: 10px;}
+.satellite-description{color: #000000ab;padding-bottom: 15px;}
+.about-satellite button{background-color: green;height: 40px;width: 100px;border-radius: 5px;}
+.bdsetellite-section{padding-bottom: 50px;padding-top: 50px;margin-bottom: 50px;margin-top: 50px;background-color: #e9e8e7c2;border-radius: 3px;display: flex;gap: 20px;padding-right: 40px;padding-left: 40px;}
+.stellite-image img{border-radius: 16px;}
+
+/* bdsetellite news done*/
