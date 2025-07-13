@@ -12,3 +12,12 @@ display: flex;justify-content: space-between;max-width: 1180px;margin: 15px auto
 }
 
 /* Header done: */
+
+.img-section{margin-bottom: 50px;}
+.img-section-1{display: flex;background-color: rgba(93, 154, 156, 0.7);margin: 0px auto;max-width: 1120px;padding-left: 40px;padding-right: 40px;padding-top: 50px;gap: 100px;padding-bottom: 50px;}
+.sdsubtitle{font-weight: bold;font-size: 40px;padding-right: 150px;}
+#sdsubtitle-2{padding-right: 10px;}
+.sdtitle{color: #00000077;}
+#btn{height: 35px;background-color: rgba(14, 109, 14, 0.781);color: #fff;margin-top: 10px;padding: 0px 10px;border: none;border-radius: 5px;}
+
+/* Img-section-1 done */
